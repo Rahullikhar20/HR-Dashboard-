@@ -1,3 +1,3 @@
 # HR-Dashboard-
 
-# You will find my work with the help of this Readme. Attaching the Work in Main files.
+# Please refer to the attached README for an overview of my work. The main files are also included for your review.
